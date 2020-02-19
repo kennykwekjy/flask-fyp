@@ -1,0 +1,39 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2020-02-19 04:02:37.358 UTC</timestamp>
+  <original>
+    <name>flask-pipeline</name>
+    <number>2</number>
+  </original>
+  <md5sum>2053ca75899e830873fcb55b8eba20f9</md5sum>
+  <fileName>Docker image sha256:2053ca75899e830873fcb55b8eba20f9c9f6bc35b3985c99d66f1f393163f7c0</fileName>
+  <usages/>
+  <facets>
+    <org.jenkinsci.plugins.docker.commons.fingerprint.DockerRunFingerprintFacet plugin="docker-commons@1.16">
+      <timestamp>1582084957504</timestamp>
+      <imageId>sha256:2053ca75899e830873fcb55b8eba20f9c9f6bc35b3985c99d66f1f393163f7c0</imageId>
+      <usages>
+        <entry>
+          <string>flask-pipeline</string>
+          <ranges>1-2</ranges>
+        </entry>
+      </usages>
+      <records class="java.util.concurrent.CopyOnWriteArrayList">
+        <org.jenkinsci.plugins.docker.commons.fingerprint.ContainerRecord>
+          <host>6b73285494c1</host>
+          <containerId>6b73285494c187ebecb4ae17e0efe875d74672e4b9b4d2ba60689e4b417d11d8</containerId>
+          <containerName>/pensive_bartik</containerName>
+          <created>1582084955000</created>
+          <tags/>
+        </org.jenkinsci.plugins.docker.commons.fingerprint.ContainerRecord>
+        <org.jenkinsci.plugins.docker.commons.fingerprint.ContainerRecord>
+          <host>e3bd5b17e5db</host>
+          <containerId>e3bd5b17e5db24a948150a257236d854c77cb0ffcf07314508f0847dfd4a0e12</containerId>
+          <containerName>/laughing_shaw</containerName>
+          <created>1582084955000</created>
+          <tags/>
+        </org.jenkinsci.plugins.docker.commons.fingerprint.ContainerRecord>
+      </records>
+    </org.jenkinsci.plugins.docker.commons.fingerprint.DockerRunFingerprintFacet>
+  </facets>
+</fingerprint>

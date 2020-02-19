@@ -1,0 +1,86 @@
+Started by user [8mha:////4JN8Tdp5GrRF6iZvzc2EIAdkjChJ9wMaWnqy+I0sTuk+AAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzWEgZu/dLi1CL9xJTczDwAj6GcLcAAAAA=[0mkenny
+Running in Durability level: MAX_SURVIVABILITY
+[8mha:////4MW+pg2PltKXFgoqYr6EZ11NGpaidu/7pmZr8DswPZxiAAAAoh+LCAAAAAAAAP9tjTEOwjAQBM8BClpKHuFItIiK1krDC0x8GCfWnbEdkooX8TX+gCESFVvtrLSa5wtWKcKBo5UdUu8otU4GP9jS5Mixv3geZcdn2TIl9igbHBs2eJyx4YwwR1SwULBGaj0nRzbDRnX6rmuvydanHMu2V1A5c4MHCFXMWcf8hSnC9jqYxPTz/BXAFEIGsfuclm8zQVqFvQAAAA==[0m[Pipeline] Start of Pipeline
+[8mha:////4C/gBg7BlOO15VzOjDWRBQfLIGEgntqGFjTvsEHKkJqpAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycohUghExsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jduZBmjwAAAAA==[0m[Pipeline] node
+Running on [8mha:////4D5YnH6Z0YvjIUTy9q3isMs6nPNLbJoCJWRjt4EWlngGAAAAnh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAz2EgZh/eT83ILSktQifY3cxGIgrakPAHib2iPIAAAA[0mJenkins in /var/jenkins_home/workspace/flask-pipeline
+[8mha:////4KqV9NVq146rVx+09lLufLzmjD6XCuKnlHZpHfv8CzUEAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycoh0gA0xsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jfoP95RwAAAAA==[0m[Pipeline] {
+[8mha:////4M6oFCzIlX4POVDx9CW572/ucjBO+Sz2yeIy2pqINIT3AAAAoh+LCAAAAAAAAP9tjTEOAiEURD9rLGwtPQTbaGWsbAmNJ0AWEZb8zwLrbuWJvJp3kLiJlZNMMm+a93rDOic4UbLcG+wdZu14DKOti0+U+lugiXu6ck2YKRguzSSpM+cFJRUDS1gDKwEbgzpQdmgLbIVXD9UGhba9lFS/o4DGdQM8gYlqLiqVL8wJdvexy4Q/z18BzLEA29ce4gdpL1fxvAAAAA==[0m[Pipeline] isUnix
+[8mha:////4NMLlvMFuqqTx6nu/cmlupjZzDQ3rLdoNiEbn3Rwb51lAAAAoh+LCAAAAAAAAP9tjTEOAiEURD9rLGwtPQTbGBtjZUtoPAGyiLDkfxZYdytP5NW8g8RNrJxkknnTvNcb1jnBiZLl3mDvMGvHYxhtXXyi1N8CTdzTlWvCTMFwaSZJnTkvKKkYWMIaWAnYGNSBskNbYCu8eqg2KLTtpaT6HQU0rhvgCUxUc1GpfGFOsLuPXSb8ef4KYI4F2L72ED+qfHravAAAAA==[0m[Pipeline] sh
++ docker inspect -f . python:3.7.2
+
+Error: No such object: python:3.7.2
+[8mha:////4LEGJYmC2A9Uf5QtSpqyjq07P6TA0zAUNVx16ygIF8++AAAAox+LCAAAAAAAAP9tjTEOAiEURD9rLGwtPQTbmFgYK1tC4wmQRYQl/7PAult5Iq/mHSRuYuUkk8yb5r3esM4JTpQs9wZ7h1k7HsNo6+ITpf4WaOKerlwTZgqGSzNJ6sx5QUnFwBLWwErAxqAOlB3aAlvh1UO1QaFtLyXV7yigcd0AT2CimotK5Qtzgt197DLhz/NXAHMswPa1h/gB601hw7wAAAA=[0m[Pipeline] isUnix
+[8mha:////4Jq+93wWG4FTXsf8VNPGVZiA+9VOfb7W7H8GA2ytZazzAAAAox+LCAAAAAAAAP9tjTEOAiEURD9rLGwtPQTbWJgYK1tC4wmQRYQl/7PAult5Iq/mHSRuYuUkk8yb5r3esM4JTpQs9wZ7h1k7HsNo6+ITpf4WaOKerlwTZgqGSzNJ6sx5QUnFwBLWwErAxqAOlB3aAlvh1UO1QaFtLyXV7yigcd0AT2CimotK5Qtzgt197DLhz/NXAHMswPa1h/gBJFH5RLwAAAA=[0m[Pipeline] sh
++ docker pull python:3.7.2
+3.7.2: Pulling from library/python
+e79bb959ec00: Pulling fs layer
+d4b7902036fe: Pulling fs layer
+1b2a72d4e030: Pulling fs layer
+d54db43011fd: Pulling fs layer
+69d473365bb3: Pulling fs layer
+7dc3a6a0e509: Pulling fs layer
+a288a79001c3: Pulling fs layer
+7d3cdae56021: Pulling fs layer
+dbf17696f820: Pulling fs layer
+7dc3a6a0e509: Waiting
+a288a79001c3: Waiting
+7d3cdae56021: Waiting
+dbf17696f820: Waiting
+d54db43011fd: Waiting
+69d473365bb3: Waiting
+1b2a72d4e030: Download complete
+d4b7902036fe: Verifying Checksum
+d4b7902036fe: Download complete
+e79bb959ec00: Verifying Checksum
+e79bb959ec00: Download complete
+7dc3a6a0e509: Verifying Checksum
+7dc3a6a0e509: Download complete
+d54db43011fd: Verifying Checksum
+d54db43011fd: Download complete
+7d3cdae56021: Verifying Checksum
+7d3cdae56021: Download complete
+a288a79001c3: Verifying Checksum
+a288a79001c3: Download complete
+dbf17696f820: Verifying Checksum
+dbf17696f820: Download complete
+e79bb959ec00: Pull complete
+d4b7902036fe: Pull complete
+1b2a72d4e030: Pull complete
+69d473365bb3: Verifying Checksum
+69d473365bb3: Download complete
+d54db43011fd: Pull complete
+69d473365bb3: Pull complete
+7dc3a6a0e509: Pull complete
+a288a79001c3: Pull complete
+7d3cdae56021: Pull complete
+dbf17696f820: Pull complete
+Digest: sha256:1eecfb3b9cee73af760e00d3aa59bae76c4c0160ddb0213f14f7e0ae968e4835
+Status: Image is up to date for python:3.7.2
+[8mha:////4EIxdVmAZrM6wPdfaOB50Ny7UZdFVOS6L6sBo7fxxThlAAAAph+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycoh0YUGIiTXKwglCEkLa6P82SWknTsTVuAOBSkxYsmRbst7zBXWKcKToeGux85i0530YXUl8othdA028pQvXhImC5dJOkow9LVVStrCIVbASsLaoAyWPLsNGtOqumqDQNeccy3YQUHkzwAOYKOSsYv6WOcL2NppE+OP8BcDcZ2C74v3nV78BTzecD8AAAAA=[0m[Pipeline] withDockerContainer
+Jenkins seems to be running inside container 8c62d2c4477b677d7ea46c42e4795563cc50f82a9c3112f263750edcd530d32c
+$ docker run -t -d -u 0:0 -w /var/jenkins_home/workspace/flask-pipeline --volumes-from 8c62d2c4477b677d7ea46c42e4795563cc50f82a9c3112f263750edcd530d32c -e ******** -e ******** -e ******** -e ******** -e ******** -e ******** -e ******** -e ******** -e ******** -e ******** -e ******** -e ******** -e ******** -e ******** -e ******** -e ******** -e ******** -e ******** -e ******** -e ******** -e ******** -e ******** python:3.7.2 cat
+$ docker top 6b73285494c187ebecb4ae17e0efe875d74672e4b9b4d2ba60689e4b417d11d8 -eo pid,comm
+[8mha:////4Bs+S++MZ0Mc1LZImSetAYOcu9bVsPd06hupMieTm/NrAAAAph+LCAAAAAAAAP9tjTEOwjAQBM9BKWgpeYQDJUJUtJYbXmBiY5xYd8G+kFS8iK/xBwKRqNhqZ6XVPF9Q5gQHSl42DtuAuQ6yi72fmhwotZdIg2zoLGvCTNFJ7QZN1h1n1MQO5ogCFgqWDutIOaBnWKnG3E0VDfrqxGna9gqKYG/wAKEmM5vEXxgTrK+9zYQ/z18BjB2D2DEU283nWL4Bsam+msEAAAA=[0m[Pipeline] {
+[8mha:////4Ku+CZF/Ab6qE9rLwB9PZknfHwcwD/9YMxaQTCSRuhCFAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+DOrAycoiUzoiJNerCCUITQtLo/zZJSSdOxNW4Ay2VmPBg2Zas93pDGQOcKBjuNHYWY2t570czJ54pdDdPmTu68pYwkte80bkhpc9rbShpWFUw2AjYamw9RYsmwU44+ZCVl2iqSwrzdhTArBrgCYWYyUmG9C1TgP19VJHwx/kLgKlPwOrDYvXyLD8BobDcwgAAAA==[0m[Pipeline] stage
+[8mha:////4JgH7XquDrbWkTrrLisOVJ6Yr7AHrzV/PK7CQoocItOHAAAAph+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUZUVMrFEWThCaEJJG/7dJSjpxIq7GHWipxIQHy7ZkvdcbqhjgRMEwp7GzGFvLej+aObFMobt5yszRlbWEkbxmQmdBSp/XKihpWFWUsOGw1dh6ihZNgh138iFrL9HUlxTm7cihtGqAJxR8JicZ0rdMAfb3UUXCH+cvAKY+Qdk0ix2WZ/UBbwyqm8IAAAA=[0m[Pipeline] { (build)
+[8mha:////4NYpV6PtP3V12M4mOb90vrSc2ZE6MwxNxVdBjnBzKbO4AAAAox+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIioERUaS03vMDExjix7oztkFS8iK/xBwKRqNhitbPNPF+wTBGOHC22hjpHqXEYfG+nhQPH7uJ5wJbP2DAl9galGSRrU88oORuYU5SwELAy1HhOjmyGtWjVXVVeka1OOU7fQUDp9A0eUIjJnFXMXxgjbK69Tkw/z18BjCFDud19ah/eeSmYHb4AAAA=[0m[Pipeline] sh
++ pip install -r requirements.txt
+Could not open requirements file: [Errno 2] No such file or directory: 'requirements.txt'
+You are using pip version 19.0.3, however version 20.0.2 is available.
+You should consider upgrading via the 'pip install --upgrade pip' command.
+[8mha:////4A3TPDnwLaQ1FYWG0fLmRd1D57OGxO5K/RtywimyiDU6AAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiEB2iSmu54QUmNsaJdWdsh6TiRXyNPxCIRMUWq51t5vmCZYpw5GixNdQ5So3D4Hs7LRw4dhfPA7Z8xoYpsTcozSBZm3pGydnAnKKEhYCVocZzcmQzrEWr7qryimx1ynH6DgJKp2/wgEJM5qxi/sIYYXPtdWL6ef4KYAwhQ7ndf2r3BoOEdWO+AAAA[0m[Pipeline] }
+[8mha:////4KK68S9nObSypuFi0K83TfjWAOBh0IyxWYt7SCMyj6CVAAAAox+LCAAAAAAAAP9tjTESwiAURH/iWNhaeggyKawcK1uGxhNggghh/idAJJUn8mreQTQzVm6xs2+b93zBOgY4UtDMKhwMxs4w7yZdFssUhqujzCxdWEcYySkmVBbUq9OCgpKCJVUNKw4bhZ2jaFAn2HIr77JxEnVzTqF8Bw616Ud4QMWLOcmQvjAH2N2mPhL+PH8FMHufoG73n2rfnAYgMb4AAAA=[0m[Pipeline] // stage
+[8mha:////4CkSBS7oH004fpjOVvFg+NJBOd0CYqox2mWsOdEft7ytAAAApx+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycogUFhbE1DXKwglCE0La6P/yk9JOnIircQdaKjHhwbItWe/1hiIynIidaCy2HmPtRRd6NyUxELfXQINo6CJqwkjBCmUHRcZWS1WULCzKclhJWFusA0WPLsFGNvqhy6DRlefE03aUkHtzhydkciInzelbRobtrTeR8Mf5C4CxS5Dvd7Md5mfxAbmRtcHCAAAA[0m[Pipeline] stage
+[8mha:////4JBesP/Nmy10KX/Ycw7MMe9Z9ROXd+7mL9kZAT8XHj5VAAAApx+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohULDAgpq5RFk4QmhDSRv+Xn5R24kRcjTvQUokJD5ZtyXqvNxSR4UTsRGOx9RhrL7rQuymJgbi9BhpEQxdRE0YKVig7KDK2WqqiZGFRlsNKwtpiHSh6dAk2stEPXQaNrjwnnrajhNybOzwhkxM5aU7fMjJsb72JhD/OXwCMXYJ8t5/tMD+LD1+IXOLCAAAA[0m[Pipeline] { (test)
+Stage "test" skipped due to earlier failure(s)
+[8mha:////4BdpewssPTjsr0uURiB6HyI0kcnQ2fVp41zSfL0VgK4yAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiKpAQVVrLDS8wsTFOrDtjOyQVL+Jr/IFAJCq2WO1sM88XLFOEI0eLraHOUWocBt/baeHAsbt4HrDlMzZMib1BaQbJ2tQzSs4G5hQlLASsDDWekyObYS1adVeVV2SrU47TdxBQOn2DBxRiMmcV8xfGCJtrrxPTz/NXAGMIGcrt/lO7N3ew3WS+AAAA[0m[Pipeline] }
+[8mha:////4K4UhDzYL89rzIjsUJQg+tM2feMzwIqHMNaJrzaOFQuuAAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiGiSEqNJabniBiY1xYt0Z2yGpeBFf4w8EIlGxxWpnm3m+YJkiHDlabA11jlLjMPjeTgsHjt3F84Atn7FhSuwNSjNI1qaeUXI2MKcoYSFgZajxnBzZDGvRqruqvCJbnXKcvoOA0ukbPKAQkzmrmL8wRthce52Yfp6/AhhDyFBu95/avQFEU4bYvgAAAA==[0m[Pipeline] // stage
+[8mha:////4P+4JFHfn554dv2O8Ms2/XFRtlvlNsy3o7qLo4VdE5S/AAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOISaBFVWisNLzCxMU6sO2M7JBUv4mv8AYtIVGyx2tlmXm9YxwAnDgZ7TYOl2Fn0bjR54cRhuDqesOcLdkyRncZWTy0r3SzYctKwpChhJWCjqXMcLZkEW9HLh6ycJFOdU8jfUUBp1R2eUIhsTjKkL8wBdrdRRaaf568AZu8TlIc6177+ACS9Aie+AAAA[0m[Pipeline] }
+$ docker stop --time=1 6b73285494c187ebecb4ae17e0efe875d74672e4b9b4d2ba60689e4b417d11d8
+$ docker rm -f 6b73285494c187ebecb4ae17e0efe875d74672e4b9b4d2ba60689e4b417d11d8
+[8mha:////4DMrPF7RWg6dzodXaNUBJqa6KqgPoG5rBKkrKdFRA02MAAAAox+LCAAAAAAAAP9tjTEOwjAQBDdBFLSUPMIRdAhR0VppeIFJjHFi3QX7QlLxIr7GH4iIRMVWO9PM641lijhydKqx1HpKlVdd6N301MCxvQYeVMMXVTElDlaVdii5tqcZSxaLeVmOhcbKUhU4eXKCtW7MwxTBkCvOEid30Mh9fccTmZ7KYqJ8YYzY3Po6Mf06fwMYu06Q77aCbP8BJgwAF70AAAA=[0m[Pipeline] // withDockerContainer
+[8mha:////4OIHEluuawTOh79uLR59E8kLWE/G01Uzb4fwm52SociAAAAAox+LCAAAAAAAAP9tjbEOgjAURS8YB1dHP6IkxM04uTYsfkGFWgvNe9g+hMkv8tf8B4kkTt7pnrOc1xvrFHHk6FRrqfOUaq/6MLj5qZFjdw08qpYvqmZKHKyq7FhxY08LViwWy7IcK42NpTpw8uQEW92ahymCIVecJc7uoJH75o4nMj2XxUT5whSxuw1NYvp1/gYw9b0gL0tBtv8ASwoRLr0AAAA=[0m[Pipeline] }
+[8mha:////4Gq3Kmddv1CGQCj6mMSc/qyNnGyLQYZuudXmZ1PJSpP1AAAAoh+LCAAAAAAAAP9tjbEOgjAURS8YB1dHP6IkMhon14bFL6hQa6F5D9uHMPlF/pr/IJHEyTvdc5bzemOdIo4cnWotdZ5S7VUfBjc/NXLsroFH1fJF1UyJg1WVHStu7GnBisViWZZjpbGxVAdOnpxgq1vzMEUw5IqzxNkdNHLf3PFEpueymChfmCJ2t6FJTL/O3wCmvhfk+1KQlR9YthWNvQAAAA==[0m[Pipeline] // node
+[8mha:////4Jjx4wIyYsiWY0ABY5MAoAXNyv57LUYpNKxuhYNXPzoBAAAAox+LCAAAAAAAAP9tjbEOgjAURS8YB1dHP6IkxM04uTYsfkGFWgvNe9g+hMkv8tf8B4kkTt7pnrOc1xvrFHHk6FRrqfOUaq/6MLj5qZFjdw08qpYvqmZKHKyq7FhxY08LViwWy7IcK42NpTpw8uQEW92ahymCIVecJc7uoJH75o4nMj2XxUT5whSxuw1NYvp1/gYw9b0gL/eCrPwA3loySL0AAAA=[0m[Pipeline] End of Pipeline
+ERROR: script returned exit code 1
+Finished: FAILURE
