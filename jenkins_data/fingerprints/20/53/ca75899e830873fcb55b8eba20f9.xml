@@ -17,6 +17,10 @@
           <string>flask-pipeline</string>
           <ranges>1-2</ranges>
         </entry>
+        <entry>
+          <string>github2</string>
+          <ranges>18</ranges>
+        </entry>
       </usages>
       <records class="java.util.concurrent.CopyOnWriteArrayList">
         <org.jenkinsci.plugins.docker.commons.fingerprint.ContainerRecord>
@@ -31,6 +35,13 @@
           <containerId>e3bd5b17e5db24a948150a257236d854c77cb0ffcf07314508f0847dfd4a0e12</containerId>
           <containerName>/laughing_shaw</containerName>
           <created>1582084955000</created>
+          <tags/>
+        </org.jenkinsci.plugins.docker.commons.fingerprint.ContainerRecord>
+        <org.jenkinsci.plugins.docker.commons.fingerprint.ContainerRecord>
+          <host>aa8b96e261dd</host>
+          <containerId>aa8b96e261dd56a0b0a90551ca03885fd67aa3d8d45b9fb4252f2d3470e9a665</containerId>
+          <containerName>/cocky_lederberg</containerName>
+          <created>1582215441000</created>
           <tags/>
         </org.jenkinsci.plugins.docker.commons.fingerprint.ContainerRecord>
       </records>

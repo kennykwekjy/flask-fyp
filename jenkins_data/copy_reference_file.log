@@ -82,3 +82,10 @@ INSTALLED plugins/matrix-auth.jpi : 2.5
 INSTALLED plugins/pipeline-input-step.jpi : 2.11
 INSTALLED plugins/jsch.jpi : 0.1.55.2
 INSTALLED plugins/pipeline-build-step.jpi : 2.11
+--- Copying files at Wed Feb 19 05:01:10 UTC 2020
+--- Copying files at Wed Feb 19 05:01:13 UTC 2020
+--- Copying files at Wed Feb 19 05:01:15 UTC 2020
+--- Copying files at Wed Feb 19 05:01:16 UTC 2020
+SKIPPED plugins/credentials-binding.jpi : Installed version (1.21) has been manually upgraded from initial version (1.20)
+--- Copying files at Thu Feb 20 16:08:46 UTC 2020
+SKIPPED plugins/credentials-binding.jpi : Installed version (1.21) has been manually upgraded from initial version (1.20)
